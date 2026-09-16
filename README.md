@@ -49,13 +49,12 @@ Your login and settings are stored in:
 ### 4. Connect Gmail inside SwiftSend
 
 1. Open **SwiftSend.exe**
-2. Go to **Settings**
-3. Upload that JSON as **credentials.json**
-4. Click **Sign in with Google**
-5. Choose your Gmail account
-6. If Google says the app is unverified: **Advanced → Go to … (unsafe) → Allow**
+2. Click **Copy login link** (copied automatically)
+3. Paste the URL in any browser (Chrome, Edge, Firefox, …)
+4. Sign in with Google and Allow
+5. Return to SwiftSend — token is saved automatically
 
-After that, you stay signed in (token saved locally). You do **not** use your normal Gmail password.
+Or use **Open default browser** if you prefer Windows to open the link.
 
 ---
 
