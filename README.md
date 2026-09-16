@@ -72,7 +72,7 @@ After that, you stay signed in (token saved locally). You do **not** use your no
 3. Set delay between emails if you want
 4. Click **Send** or **Schedule**
 
-Broken dash characters in subjects are auto-fixed.
+Broken / fancy dashes in subjects (`–`, `—`, `â€“`) become a normal `-`. A plain `-` is left as-is.
 
 ### Compose
 
