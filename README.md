@@ -73,9 +73,16 @@ Or use **Open default browser** if you prefer Windows to open the link.
 
 Broken / fancy dashes in subjects (`–`, `—`, `â€“`) become a normal `-`. A plain `-` is left as-is.
 
+**Body formatting (Discord-style)** — works in CSV body, Compose, and Follow-up:
+
+- `**bold**` · `*italic*` · `__underline__` · `~~strike~~` · `` `code` ``
+- Line starting with `- ` or `* ` → bullet point in Gmail
+
 ### Compose
 
 Write one subject + body, add many recipients (type them or upload a CSV email list). Each person gets their own email.
+
+You can **Stop** mid-send and **Resume** later. Progress stays if you switch tabs.
 
 ### Follow-up
 
