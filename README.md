@@ -85,11 +85,15 @@ Broken / fancy dashes in subjects (`–`, `—`, `â€“`) become a normal `-`
 
 Write one subject + body, add many recipients (type them or upload a CSV email list). Each person gets their own email.
 
+Tick **Accept multiple CSVs** to queue several recipient lists (merged & deduped in order).
+
 You can **Stop** mid-send and **Resume** later. Progress stays if you switch tabs.
 
 ### Follow-up
 
 Replies in the **same Gmail thread** as your last Sent message to that address (like Reply in Gmail). Addresses with no prior Sent mail can be skipped.
+
+Same multi-CSV queue option as Compose for recipient lists.
 
 ### Scheduled sends
 
