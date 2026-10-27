@@ -71,6 +71,9 @@ Or use **Open default browser** if you prefer Windows to open the link.
 3. Set delay between emails if you want
 4. Click **Send** or **Schedule**
 
+Tick **Accept multiple CSVs** to queue several files (sends 1st → 2nd → 3rd).  
+After **Schedule**, the form clears so you can set up the next campaign. Multiple schedules are safe — each job keeps its own CSV snapshot.
+
 Broken / fancy dashes in subjects (`–`, `—`, `â€“`) become a normal `-`. A plain `-` is left as-is.
 
 **Body formatting (Discord-style)** — works in CSV body, Compose, and Follow-up:
@@ -91,7 +94,8 @@ Replies in the **same Gmail thread** as your last Sent message to that address (
 ### Scheduled sends
 
 Pick a future date/time.  
-**Important:** your PC must be on and **SwiftSend must be open** at that time. Gmail has no remote “schedule send” API for this app.
+**Important:** your PC must be on and **SwiftSend must be open** at that time.  
+Sign in with Google once in Settings first (saved token is reused — schedules cannot open a login browser while you are away).
 
 ### History
 
