@@ -87,18 +87,22 @@ Write one subject + body, add many recipients (type them or upload a CSV email l
 
 Tick **Accept multiple CSVs** to queue several recipient lists (merged & deduped in order).
 
-You can **Stop** mid-send and **Resume** later. Progress stays if you switch tabs.
+You can **Stop** mid-send and **Resume** later. Progress stays if you switch tabs.  
+While paused, edit subject/body (or attachments) — **Resume** uses the latest text for remaining emails.
+
+Use the **View** (eye) button on attachments to preview PDF/images inside the app before sending.
 
 ### Follow-up
 
 Replies in the **same Gmail thread** as your last Sent message to that address (like Reply in Gmail). Addresses with no prior Sent mail can be skipped.
 
-Same multi-CSV queue option as Compose for recipient lists.
+Same multi-CSV queue option as Compose for recipient lists. Pause → edit body → Resume works the same way.
 
 ### Scheduled sends
 
 Pick a future date/time.  
-**Important:** your PC must be on and **SwiftSend must be open** at that time.  
+**Important:** your PC must be on and **SwiftSend must be open at the send time**.  
+Closing and reopening the app *before* that time is fine — the job is restored automatically.  
 Sign in with Google once in Settings first (saved token is reused — schedules cannot open a login browser while you are away).
 
 ### History
