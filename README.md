@@ -109,6 +109,13 @@ Sign in with Google once in Settings first (saved token is reused — schedules 
 
 Past sends are listed in the **History** tab.
 
+### Failed
+
+Emails that fail (e.g. Gmail rate limit) appear in the **Failed** tab with subject/body and attachments saved.  
+Click **Retry all** to resend that batch in one click.
+
+Scheduled jobs also show **CSV** and **attachment** names so multiple campaigns are easy to tell apart.
+
 ---
 
 ## Sharing this app
