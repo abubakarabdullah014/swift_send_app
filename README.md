@@ -112,9 +112,9 @@ Past sends are listed in the **History** tab.
 ### Failed
 
 Emails that fail (e.g. Gmail rate limit) appear in the **Failed** tab with subject/body and attachments saved.  
-Click **Retry all** to resend that batch in one click.
+Click **Retry all** for live progress (pause/resume). When all succeed, the batch leaves Failed and shows in History.
 
-Scheduled jobs also show **CSV** and **attachment** names so multiple campaigns are easy to tell apart.
+Scheduled jobs show **CSV** and **attachment** names. When a schedule runs, you get the same live sent/remaining log with pause/resume. Attachment files keep their original names in Gmail.
 
 ---
 
